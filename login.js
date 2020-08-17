@@ -5,3 +5,5 @@ function login(username){
 }
 
 console.log(login('andres'))
+
+let texto = "texto de ejemplo"
